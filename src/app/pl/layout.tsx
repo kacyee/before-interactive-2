@@ -1,4 +1,4 @@
-import ClientComponent from "../../components/client-component";
+import ClientComponent from "../components/client-component";
 
 export const metadata = {
   title: "Create Next App",
